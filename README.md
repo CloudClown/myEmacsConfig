@@ -1,3 +1,3 @@
-AutoComplete
-Theme
-JS Mode
+* AutoComplete;     
+* Theme;     
+* JS Mode;     
