@@ -1,6 +1,6 @@
 (add-to-list 'load-path "/home/jackie/.emacs.d/")
 (require 'auto-complete-config)
-(add-to-list 'ac-dictionary-directories "/home/jackie/.emacs.d//ac-dict")
+(add-to-list 'ac-dictionary-directories "/home/jackie/.emacs.d/ac-dict")
 (ac-config-default)
 (load "/home/jackie/.emacs.d/emacsMODS/tomorrow-night-theme.el")
 (require 'linum)
