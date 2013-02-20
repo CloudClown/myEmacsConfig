@@ -2,7 +2,7 @@
 
 cp dotEmacs ~/.emacs
 sed "s@\/home\/jackie\/@$HOME\/@g" ~/.emacs
-cp -r emacs.d ~/.emacs.d
+cp -r emacs.d/* ~/.emacs.d
 
 echo "" >> ~/.bashrc
 echo "export TERM=xterm-256color" >> ~/.bashrc
